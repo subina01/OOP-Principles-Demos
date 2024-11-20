@@ -16,12 +16,11 @@ implementation details from the user.
 - - Read-only properties.
 - - public methods (Deposit, Withdraw, and GetBalance) to interact with the data securely.
 	
-	- #### Expected Output
+ #### Expected Output
 
-	- - - amount = 2000 is deposited in your account
+- - - amount = 2000 is deposited in your account
 - - - 3000 has been withdrawn from your account
 - - - 4000 is your Balance in your bank  account
 - - - You can only withdraw with in the range you have in your account
-- - -System.ArgumentException: Please Enter the Valid Amount
-   at EncapsulationDemo.BankAccount.Deposit(Decimal amount) in C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\EncapsulationDemo\BankAccount.cs:line 45
-- - -amount = -500 is deposited in your account
+- - - System.ArgumentException:  **Please Enter the Valid Amount at EncapsulationDemo.BankAccount.Deposit(Decimal amount) in C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\EncapsulationDemo\BankAccount.cs:line 45**
+- - - amount = -500 is deposited in your account
