@@ -1,0 +1,15 @@
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\bin\Debug\net8.0\AbastractionDemo.exe
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\bin\Debug\net8.0\AbastractionDemo.deps.json
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\bin\Debug\net8.0\AbastractionDemo.runtimeconfig.json
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\bin\Debug\net8.0\AbastractionDemo.dll
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\bin\Debug\net8.0\AbastractionDemo.pdb
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\obj\Debug\net8.0\AbastractionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\obj\Debug\net8.0\AbastractionDemo.AssemblyInfoInputs.cache
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\obj\Debug\net8.0\AbastractionDemo.AssemblyInfo.cs
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\obj\Debug\net8.0\AbastractionDemo.csproj.CoreCompileInputs.cache
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\obj\Debug\net8.0\AbastractionDemo.sourcelink.json
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\obj\Debug\net8.0\AbastractionDemo.dll
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\obj\Debug\net8.0\refint\AbastractionDemo.dll
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\obj\Debug\net8.0\AbastractionDemo.pdb
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\obj\Debug\net8.0\AbastractionDemo.genruntimeconfig.cache
+C:\Users\subia\OneDrive\Desktop\Intern\OOP-Demo\AbastractionDemo\obj\Debug\net8.0\ref\AbastractionDemo.dll
