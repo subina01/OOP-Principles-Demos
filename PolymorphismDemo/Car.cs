@@ -6,11 +6,21 @@ using System.Threading.Tasks;
 
 namespace PolymorphismDemo
 {
-    public class Car :Vehicle
+    public class Car : Ivehicle
     {
-        public override void FuelType()
+        public  void FuelType()
         {
             Console.WriteLine("Car uses petrol as fuel.");
+        }
+
+        public void Start(string vehicleType)
+        {
+            Console.WriteLine($"{vehicleType}");
+        }
+
+        public void Start(string vehicleType, int speed)
+        {
+            throw new NotImplementedException();
         }
     }
 }

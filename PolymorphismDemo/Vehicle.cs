@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PolymorphismDemo
 {
-    public class Vehicle
+    public class Vehicle : Ivehicle
     {
        
         public void Start(string vehicleType)

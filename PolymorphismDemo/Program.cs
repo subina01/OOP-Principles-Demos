@@ -7,7 +7,7 @@
             Vehicle v = new Vehicle();
             v.Start("truck");
             v.Start("car", 60);
-            Vehicle c = new Car();
+            Ivehicle c = new Car();
             c.FuelType();
 
         }
