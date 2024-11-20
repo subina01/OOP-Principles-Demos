@@ -14,6 +14,8 @@ namespace InhertanceDemo
 
             v.DisplayInfo();
             v.StartEngine();
+            v.Drive();
+            v.Repair();
             Console.WriteLine();
            c.DisplayCarDetails();
             c.StartEngine();

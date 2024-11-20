@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InheritanceDemo
 {
-    public class Vehicle //Main Parent Class
+    public class Vehicle : Irepairable, Idriveable  //Main Parent Class 
     {
         public string Company {  get; set; }
         public string Model { get; set; }   
@@ -24,6 +24,16 @@ namespace InheritanceDemo
         public virtual void StartEngine()
         {
             Console.WriteLine("Vehicle engine started.");
+        }
+
+        public void Drive()
+        {
+            Console.WriteLine("The Vehicle can be driven");
+        }
+
+        public void Repair()
+        {
+            Console.WriteLine("The Vehicle can be repaired");
         }
     }
 
